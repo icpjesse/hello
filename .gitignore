@@ -11,5 +11,4 @@
 .dfx/
 
 # frontend code
-node_modules/
-dist/
+
